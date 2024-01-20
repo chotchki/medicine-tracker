@@ -25,3 +25,6 @@ Alerting
     Through HomeKit when dose missed
 
 
+
+Todo:
+    * Test what homekit notifications can be shown
